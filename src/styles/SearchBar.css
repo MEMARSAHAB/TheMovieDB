@@ -31,8 +31,13 @@
 @media screen and (max-width: 520px) {
   .search_cont {
     width: 95%;
+    overflow: hidden;
   }
   .search_cont input {
     padding: 3px 3px;
+  }
+
+  .search_cont button {
+    padding: 6px 8px;
   }
 }
