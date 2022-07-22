@@ -30,9 +30,9 @@
 
 @media screen and (max-width: 520px) {
   .search_cont {
-    width: 90%;
+    width: 95%;
   }
   .search_cont input {
-    padding: 2px 4px;
+    padding: 3px 3px;
   }
 }
