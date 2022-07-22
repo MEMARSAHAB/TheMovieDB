@@ -1,0 +1,28 @@
+.slider_container {
+  width: 100%;
+  height: 60vh;
+  position: relative;
+}
+
+.slider_img {
+  width: 100%;
+  height: 100%;
+}
+
+.slider_img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.slider_content {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
